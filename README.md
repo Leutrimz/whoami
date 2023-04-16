@@ -1,3 +1,3 @@
 # Bootcamp 
 # Une jam Leutrim Zeneli
-## _Bootcampi eshte eksperienca ime e pare me Programim
+## Bootcampi eshte eksperienca ime e pare me Programim
